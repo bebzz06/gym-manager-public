@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "outDir": "./dist",
+    "rootDir": "../",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+
+    "paths": {
+      "@/*": ["src/*"],
+      "@shared/*": ["../shared/*"],
+      "@controllers/*": ["src/controllers/*"],
+      "@config/*": ["src/config/*"],
+      "@models/*": ["src/models/*"],
+      "@routes/*": ["src/routes/*"],
+      "@types/*": ["src/types/*"],
+      "@middleware/*": ["src/middleware/*"]
+    },
+
+    "sourceMap": true,
+    "inlineSources": true,
+
+    // Set `sourceRoot` to  "/" to strip the build path prefix
+    // from generated source code references.
+    // This improves issue grouping in Sentry.
+    "sourceRoot": "/"
+  },
+  "include": ["src/**/*", "../shared/**/*"],
+  "exclude": ["node_modules"]
+}

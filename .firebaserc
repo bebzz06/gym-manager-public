@@ -1,0 +1,22 @@
+{
+  "projects": {
+    "staging": "dojomanager-staging",
+    "production": "dojomanager-production"
+  },
+  "targets": {
+    "dojomanager-staging": {
+      "hosting": {
+        "client": [
+          "dojomanager-staging"
+        ]
+      }
+    },
+    "dojomanager-production": {
+      "hosting": {
+        "client": [
+          "dojomanager-production"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+services:
+  server:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+      target: development
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=development
+      - HOST=0.0.0.0
+    env_file:
+      - server/.env.development
+    volumes:
+      - ./server:/app/server
+      - /app/server/node_modules

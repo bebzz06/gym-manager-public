@@ -1,0 +1,44 @@
+services:
+  test-server:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+      target: development
+    environment:
+      - NODE_ENV=test
+      - HOST=0.0.0.0
+      - PORT=3000
+    env_file:
+      - server/.env.test
+    working_dir: /app/server
+    command: npm run dev:test
+    expose:
+      - '3000'
+    healthcheck:
+      test: ['CMD', 'curl', '-f', 'http://localhost:3000/api/v1/health']
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 10s
+
+  test-runner:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+      target: development
+    environment:
+      - NODE_ENV=test
+      - TEST_API_URL=http://test-server:3000
+    env_file:
+      - server/.env.test
+    working_dir: /app/server
+    command: >
+      sh -c "
+        echo '🧪 Running tests against http://test-server:3000...' &&
+        npm run test
+      "
+    volumes:
+      - ./server/test-results:/app/server/test-results
+    depends_on:
+      test-server:
+        condition: service_healthy

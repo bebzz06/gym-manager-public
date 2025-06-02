@@ -1,0 +1,23 @@
+/dist
+node_modules
+.env
+.env.development
+.env.staging
+.env.production
+.env.test
+# Firebase service account credentials
+*firebase-adminsdk*.json
+
+
+# Playwright
+playwright-report/
+**/test-results/
+playwright/.cache/
+
+# Sentry Config File
+.sentryclirc
+
+#Infrastructure deployment scripts 
+scripts/create-secrets.sh
+scripts/verify-secrets.sh
+scripts/uploadBeltImages.js

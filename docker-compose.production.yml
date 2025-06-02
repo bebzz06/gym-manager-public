@@ -1,0 +1,26 @@
+services:
+  server:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+      target: production
+    environment:
+      - NODE_ENV=production
+      - HOST=0.0.0.0
+    env_file:
+      - server/.env.production
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+          cpus: '0.5'
+        reservations:
+          memory: 256M
+          cpus: '0.25'
+    healthcheck:
+      test: ['CMD', 'curl', '-f', 'http://localhost:3000/api/v1/health']
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

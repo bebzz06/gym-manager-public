@@ -1,0 +1,121 @@
+{
+  "WHITE": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/white/w.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/white/w1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/white/w2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/white/w3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/white/w4.webp"
+  },
+  "BLUE": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/blue/b.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/blue/b1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/blue/b2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/blue/b3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/blue/b4.webp"
+  },
+  "PURPLE": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/purple/p.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/purple/p1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/purple/p2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/purple/p3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/purple/p4.webp"
+  },
+  "BROWN": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/brown/br.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/brown/br1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/brown/br2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/brown/br3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/brown/br4.webp"
+  },
+  "BLACK": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/black/bl.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/black/bl1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/black/bl2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/black/bl3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/black/bl4.webp"
+  },
+  "GRAY_WHITE": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_white/gr_w.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_white/gr_w1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_white/gr_w2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_white/gr_w3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_white/gr_w4.webp"
+  },
+  "GRAY": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray/gr.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray/gr1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray/gr2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray/gr3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray/gr4.webp"
+  },
+  "GRAY_BLACK": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_black/gr_b.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_black/gr_b1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_black/gr_b2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_black/gr_b3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/gray_black/gr_b4.webp"
+  },
+  "YELLOW_WHITE": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_white/ye_w.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_white/ye_w1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_white/ye_w2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_white/ye_w3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_white/ye_w4.webp"
+  },
+  "YELLOW": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow/ye.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow/ye1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow/ye2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow/ye3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow/ye4.webp"
+  },
+  "YELLOW_BLACK": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_black/ye_bl.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_black/ye_bl1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_black/ye_bl2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_black/ye_bl3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/yellow_black/ye_bl4.webp"
+  },
+  "ORANGE_WHITE": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_white/or_w.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_white/or_w1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_white/or_w2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_white/or_w3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_white/or_w4.webp"
+  },
+  "ORANGE": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange/or.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange/or1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange/or2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange/or3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange/or4.webp"
+  },
+  "ORANGE_BLACK": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_black/or_bl.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_black/or_bl1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_black/or_bl2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_black/or_bl3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/orange_black/or_bl4.webp"
+  },
+  "GREEN_WHITE": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_white/gre_w.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_white/gre_w1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_white/gre_w2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_white/gre_w3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_white/gre_w4.webp"
+  },
+  "GREEN": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green/gre.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green/gre1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green/gre2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green/gre3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green/gre4.webp"
+  },
+  "GREEN_BLACK": {
+    "0": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_black/gre_bl.webp",
+    "1": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_black/gre_bl1.webp",
+    "2": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_black/gre_bl2.webp",
+    "3": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_black/gre_bl3.webp",
+    "4": "https://storage.googleapis.com/dojomanager-staging.firebasestorage.app/images/public/belts/green_black/gre_bl4.webp"
+  }
+}
