@@ -1,6 +1,6 @@
 # Gym Manager App
 
-A comprehensive gym management system for managing gym operations, memberships, and administrative tasks.
+A gym management system for managing gym operations, memberships, and administrative tasks.
 
 ## Architecture
 
